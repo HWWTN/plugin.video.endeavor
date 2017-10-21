@@ -1,7 +1,7 @@
 <items>
         <item>
         <title>[B][COLORgoldenrod]Latest Releases[/COLOR][/B]</title>
-        <link>https://archive.org/download/Taqlists/latest.xml</link>
+        <link>https://raw.githubusercontent.com/HWWTN/plugin.video.endeavor/master/latest.xml</link>
         <thumbnail>http://www.optionated.com/wp-content/uploads/2012/01/category.NewReleases.jpg</thumbnail>
         </item>
 
