@@ -1,0 +1,38 @@
+<items>
+        <item>
+        <title>[B][COLORgoldenrod]Latest Releases[/COLOR][/B]</title>
+        <link>https://archive.org/download/Taqlists/latest.xml</link>
+        <thumbnail>http://www.optionated.com/wp-content/uploads/2012/01/category.NewReleases.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORgoldenrod]Freaked Out[/COLOR][/B]</title>
+        <link>https://archive.org/download/Taqlists/freak.xml</link>
+        <thumbnail>https://introvertami.files.wordpress.com/2014/09/stressed-out11.jpg</thumbnail>
+        </item>
+        
+        <item>
+        <title>[B][COLORgoldenrod]Movies I Like[/COLOR][/B]</title>
+        <link>https://archive.org/download/Taqlists/latest.xml</link>
+        <thumbnail>http://www.optionated.com/wp-content/uploads/2012/01/category.NewReleases.jpg</thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORgoldenrod]Tv Shows I Like[/COLOR][/B]</title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+		
+		item>
+        <title>[B][COLORgoldenrod]Replays[/COLOR][/B]</title>
+        <link></link>
+        <thumbnail></thumbnail>
+        </item>
+
+        <item>
+        <title>[B][COLORgoldenrod]Coming Soon[/COLOR][/B]</title>
+        <link></link>
+        <thumbnail>https://image.freepik.com/free-vector/background-of-empty-room-with-text-of-coming-soon_1017-5068.jpg</thumbnail>
+        </item>
+
+</items>
