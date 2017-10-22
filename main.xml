@@ -1,8 +1,8 @@
 <items>
         <item>
         <title>[B][COLORgoldenrod]Latest Releases[/COLOR][/B]</title>
-        <link>https://raw.githubusercontent.com/HWWTN/plugin.video.endeavor/master/latest.xml</link>
-        <thumbnail>http://www.optionated.com/wp-content/uploads/2012/01/category.NewReleases.jpg</thumbnail>
+        <link>https://archive.org/download/Taqlists/latest.xml</link>
+        <thumbnail>http://natbg.com/wp-content/uploads/2016/06/mountains-amazing-european-cityscape-euopean-nature-alps-lakes-cityscapes-towns-mountains-desktop-images.jpg</thumbnail>
         </item>
 
         <item>
@@ -12,27 +12,15 @@
         </item>
         
         <item>
-        <title>[B][COLORgoldenrod]Movies I Like[/COLOR][/B]</title>
-        <link>https://archive.org/download/Taqlists/latest.xml</link>
-        <thumbnail>http://www.optionated.com/wp-content/uploads/2012/01/category.NewReleases.jpg</thumbnail>
-        </item>
-
-        <item>
-        <title>[B][COLORgoldenrod]Tv Shows I Like[/COLOR][/B]</title>
-        <link></link>
-        <thumbnail></thumbnail>
-        </item>
-		
-		item>
-        <title>[B][COLORgoldenrod]Replays[/COLOR][/B]</title>
+        <title>[B][COLORgoldenrod]Movies I Like----Coming Soon[/COLOR][/B]</title>
         <link></link>
         <thumbnail></thumbnail>
         </item>
 
         <item>
-        <title>[B][COLORgoldenrod]Coming Soon[/COLOR][/B]</title>
+        <title>[B][COLORgoldenrod]Tv Shows I Like---Coming Soon[/COLOR][/B]</title>
         <link></link>
-        <thumbnail>https://image.freepik.com/free-vector/background-of-empty-room-with-text-of-coming-soon_1017-5068.jpg</thumbnail>
+        <thumbnail></thumbnail>
         </item>
 
 </items>
